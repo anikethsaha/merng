@@ -2,15 +2,16 @@
 
 const typeDefs = `
   type TYPE_NAME{
-
+    id : Int!
   }
   type Query{
-   getTypeName : [TYPE_NAME]!
+   getAllTypeName : [TYPE_NAME]!,
+   getOneTypeName(_id : Int!) : TYPE_NAME!
   }
 
   type Mutation{
-    mutateTypeName(arg1 : String!,arg2:Number!) : TYPE_NAME
-}
+    mutateTypeName(_id :Int!) : TYPE_NAME
+  }
 `;
 
 module.exports = typeDefs;
