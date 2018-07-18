@@ -9,7 +9,8 @@ const typeDefs = `
   }
 
   type Mutation{
-    mutateTypeName(arg1 : String!,arg2:Number!) : TYPE_NAME,
+    mutateTypeName(arg1 : String!,arg2:Number!) : TYPE_NAME
+}
 `;
 
 module.exports = typeDefs;
