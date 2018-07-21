@@ -1,6 +1,9 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-
+import {Provider} from 'react-redux'
+import { store } from "../../client/redux";
+import { client } from "../../Graphql/ApolloClient";
+import {  ApolloProvider } from 'react-apollo'
 class App extends React.Component {
     constructor(props) {
         super(props);
@@ -9,7 +12,13 @@ class App extends React.Component {
 
     render() {
         return (
-            <div>HEllo not asas</div>
+            <ApolloProvider client={client}>
+              <Provider store = {store}> 
+                <div>
+                    HEllo World
+                </div>
+               </Provider>
+             </ApolloProvider>
         );
     }
 }
