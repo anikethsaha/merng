@@ -8,7 +8,8 @@
     "client:dev": "webpack-dev-server --mode=development",
     "webpack": "webpack  --progress --colors --config webpack.config.js --mode=development",
     "build": "webpack --watch --progress --colors --mode=development",
-    "server": " nodemon NODE_ENV=development --inspect server.js"
+    "server": " nodemon NODE_ENV=development --inspect server.js",
+    "server:graphql" : "nodemon NODE_ENV=development --inspect GraphQLServer.js",
   },
   "author": "",
   "license": "ISC",
