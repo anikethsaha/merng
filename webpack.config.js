@@ -89,47 +89,5 @@ const ServerConfig = {
       historyApiFallback: true,
     }
 };
-const GraphQLServerConfig = {
-    name : 'GraphQL',
-    entry: './src/Graphql/index.js',
-    output: {
-          path: path.resolve(__dirname),
-          filename: './GraphQLServer.js',
-          libraryTarget: "commonjs2",
-          publicPath: '/'
-      },
-      node: {
-          __dirname: false
-      },
-    target: 'node',
-    externals: [nodeExternals()],
-    plugins: [
-       new webpack.DefinePlugin({
-         __isBrowser__: "false"
-       })
-     ],
-    module: {
-        rules: [
-            {
-                test: /\.js?$/,
-                exclude: /node_modules/,
-                loader: 'babel-loader',
-                query: {
-                    presets: ['es2015', 'react']
-                }
-              },
-              {
-                test: /\.jsx?$/,
-                exclude: /node_modules/,
-                loader: 'babel-loader',
-                query: {
-                    presets: ['es2015', 'react']
-                }
-              }
-        ]
-    },
-    devServer: {
-      historyApiFallback: true,
-    }
-};
+
 module.exports =[ BrowserConfig ,ServerConfig ,GraphQLServerConfig];
