@@ -1,9 +1,6 @@
-module.exports = {
-    sampleAction : (data) => {
+export const sampleAction = (data) => {
         return ({
             type : "",
             data
         })
     }
-
-}
