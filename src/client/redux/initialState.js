@@ -1,4 +1,1 @@
-const initialState = {};
-module.exports = {
-    initialState
-}
+export const initialState = {};
