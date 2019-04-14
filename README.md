@@ -1,6 +1,9 @@
 # MERNG-BoilerPlate
+> Checkout the  `MERN-Boilerpla` branch for MERN Stack Boilerplate
+
+
 This is boilerplate for MERN stack with GraphQL and with integrations like Redux and SSR 
-## NOTE  :  GraphQL subscription is not added as a functional as it was quite unstable during the development time and can be added later
+> ## GraphQL subscription is not added as a functional as it was quite unstable during the development time and can be added later
 ## Getting Started
 ##### Clone the project
 ##### Install Dependecies`npm i`
