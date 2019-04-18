@@ -1,6 +1,8 @@
 # MERNG-BoilerPlate
 
 ### [Live-Demo](http://35.200.248.52:5000/#/)
+Deployed in Google Cloud Platform using Kubernetes
+
 ---
 > Checkout the  `MERN-Boilerpla` branch for MERN Stack Boilerplate
 
