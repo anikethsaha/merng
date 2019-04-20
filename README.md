@@ -20,10 +20,57 @@ Deployed in Google Cloud Platform using Kubernetes
 ---
 ## Getting Started
 - ##### Clone the project
-- ##### Install Dependecies`npm i`
-- ##### `npm run build` = run the webpack
-- ##### `npm run server`= run the express server
-- ##### `nodemon GraphQLServer` = run the graphql server
-- ##### To run the webpack-dev-server `npm run client:dev`
+- ##### Install Dependecies
+```bash
+$ npm i
+```
+- ##### run the webpack
+```bash
+$ npm run build
+```
+- ##### run the express server
+```bash
+$ npm run server
+```
+
+- ##### run the graphql server
+```bash
+$ nodemon GraphQLServer # Please install nodemon globally using -  $ npm i -g nodemon
+```
+- ##### To run the webpack-dev-server 
+```bash
+$ npm run client:dev
+```
+
 
 ## Look for the `config/index.js` for making changes in the configs of the project
+
+
+
+---
+## technology
+- NodeJS - Server
+- ExpressJS - Nodejs framework
+- MongoDB - Database
+- ReactJS - Frontend
+- Redux - State Management
+- Docker - Containerization and image 
+- Eslint - Linter
+- Webpack - Bundler
+- Babel - Loader and Compiler/Transpiler
+- GraphQL - Query Language
+- Apollo - Graphql Engines and Client Side support
+
+---
+## Features
+- [x] Server Side Rendering
+- [x] State Management
+- [x] GraphQL Queries
+- [x] GraphQL Subscriptions
+- [x] GraphQL Mutations
+- [x] Image for Container
+- [x] Model Controller Project Structure
+- [ ] Build Pipelines
+- [ ] Tests
+- [ ] Examples
+
