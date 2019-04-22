@@ -11,8 +11,10 @@
 
 
 
-### [Live-Demo](http://35.200.248.52:5000/#/)
+### [MERN-Live-Demo](http://35.200.248.52:5000/#/)
+```bash
 Deployed in Google Cloud Platform using Kubernetes
+```
 
 > ## Checkout the  `MERN-Boilerpla` branch for MERN Stack Boilerplate
 > ## GraphQL subscription is not added as a functional as it was quite unstable during the development time and can be added later
@@ -73,5 +75,6 @@ $ npm run client:dev
 - [ ] Build Pipelines
 - [ ] Tests
 - [ ] Examples
+- [ ] Live Demo
 
 ## [License](https://github.com/anikethsaha/MERNG-BoilerPlate/blob/master/LICENSE)
