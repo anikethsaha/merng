@@ -9,14 +9,16 @@
 </p>
 <br><br>
 
-
+ ## Checkout the  [MERN-Boilerplate](https://github.com/anikethsaha/MERN-Boilerplate) for MERN Stack Boilerplate
 
 ### [MERN-Live-Demo](http://35.200.248.52:5000/#/)
 ```bash
 Deployed in Google Cloud Platform using Kubernetes
 ```
 
-> ## Checkout the  `MERN-Boilerpla` branch for MERN Stack Boilerplate
+
+ 
+ 
 > ## GraphQL subscription is not added as a functional as it was quite unstable during the development time and can be added later
 
 ---
