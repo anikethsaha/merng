@@ -74,3 +74,4 @@ $ npm run client:dev
 - [ ] Tests
 - [ ] Examples
 
+## [License](https://github.com/anikethsaha/MERNG-BoilerPlate/blob/master/LICENSE)
