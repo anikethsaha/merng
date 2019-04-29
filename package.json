@@ -11,7 +11,7 @@
     "server": " nodemon NODE_ENV=development --inspect server.js",
     "server:graphql" : "nodemon NODE_ENV=development --inspect GraphQLServer.js",
     "docker-start:dev":"npm run webpack && npm run server:dev",
-    "docker-start:prod":"npm run lint && npm run webpack && npm run server:prod",
+    "docker-start:prod":"npm run lint && npm run webpack && npm run server:prod"
 
   },
   "author": "",
