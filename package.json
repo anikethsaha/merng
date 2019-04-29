@@ -46,7 +46,7 @@
     "react-layout-handler": "^1.0.16",
     "subscriptions-transport-ws": "^0.9.12",
     "winston": "^3.0.0",
-     "react-apollo": "^2.1.9",
+     "react-apollo": "^2.1.9"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
