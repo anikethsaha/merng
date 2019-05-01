@@ -13,7 +13,7 @@
   
 > ## GraphQL subscription is not added as a functional as it was quite unstable during the development time and can be added later
 
----
+
 ## Getting Started
 - ##### Clone the project
 - ##### Install Dependecies
@@ -43,7 +43,7 @@ $ npm run client:dev
 
 
 
----
+
 ## technology
 - NodeJS - Server
 - ExpressJS - Nodejs framework
@@ -57,7 +57,7 @@ $ npm run client:dev
 - GraphQL - Query Language
 - Apollo - Graphql Engines and Client Side support
 
----
+
 ## Features
 - [x] Server Side Rendering
 - [x] State Management
