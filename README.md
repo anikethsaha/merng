@@ -9,6 +9,11 @@
 </p>
 <br><br>
 
+
+[![Dependabot](https://badgen.net/badge/Dependabot/enabled/green?icon=dependabot)](https://dependabot.com/)
+
+
+
  ## Checkout the  [MERN-Boilerplate](https://github.com/anikethsaha/MERN-Boilerplate) for MERN Stack Boilerplate
   
 > ## GraphQL subscription is not added as a functional as it was quite unstable during the development time and can be added later
