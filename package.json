@@ -38,7 +38,7 @@
     "express-session": "^1.15.6",
     "graphql": "^0.13.2",
     "graphql-subscriptions": "^0.5.8",
-    "graphql-tools": "^3.0.5",
+    "graphql-tools": "^4.0.4",
     "helmet": "^3.12.1",
     "jsonwebtoken": "^8.3.0",
     "mongoose": "^5.2.4",
