@@ -24,7 +24,7 @@
     "apollo-link-http": "^1.5.14",
     "apollo-server-express": "^1.4.0",
     "apollo-link-http": "^1.5.4",
-    "apollo-server-express": "^2.4.8",
+    "apollo-server-express": "^2.5.0",
     "babel-preset-env": "^1.7.0",
     "bcrypt": "^2.0.1",
     "body-parser": "^1.18.3",
