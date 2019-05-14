@@ -14,9 +14,12 @@
 
 
 
- ## Checkout the  [MERN-Boilerplate](https://github.com/anikethsaha/MERN-Boilerplate) for MERN Stack Boilerplate
-  
-> ## GraphQL subscription is not added as a functional as it was quite unstable during the development time and can be added later
+### Checkout the  [MERN-Boilerplate](https://github.com/anikethsaha/MERN-Boilerplate) for MERN Stack Boilerplate
+
+## :warning: The APIs (mostly for apollo) are outdated. Will update them soon :warning:
+
+
+> ### GraphQL subscription is not added as a functional as it was quite unstable during the development time and can be added later
 
 
 ## Getting Started
