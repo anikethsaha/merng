@@ -46,6 +46,16 @@ $ nodemon GraphQLServer # Please install nodemon globally using -  $ npm i -g no
 $ npm run client:dev
 ```
 
+### You can Also add this using [This Package](https://www.npmjs.com/package/@buildtip/create-web-app)
+```bash
+$ npm i -g @buildtip/create-web-app
+$ cwa
+
+```
+And then on question `no. 4` that is `Please Select Project Stack [ Required ] :` Type: **`4`** for `MERNG`
+
+
+
 
 ## Look for the `config/index.js` for making changes in the configs of the project
 
