@@ -27,7 +27,7 @@
     "apollo-server-express": "^2.5.0",
     "babel-preset-env": "^1.7.0",
     "bcrypt": "^2.0.1",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.19.0",
     "cors": "^2.8.4",
     "csurf": "^1.9.0",
     "ejs": "^2.6.1",
