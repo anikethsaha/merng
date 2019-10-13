@@ -45,7 +45,7 @@
     "owasp-password-strength-test": "^1.3.0",
     "react": "^16.8.6",
     "react-dom": "^16.4.2",
-    "react-layout-handler": "^1.0.16",
+    "react-layout-handler": "^1.1.0",
     "subscriptions-transport-ws": "^0.9.16",
     "winston": "^3.0.0",
     "subscriptions-transport-ws": "^0.9.12",
